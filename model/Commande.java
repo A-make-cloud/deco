@@ -11,7 +11,7 @@ public class Commande {
 	private String trackingNbr;
 	
 	private int id_Client;
-	private int id_ClienTest;
+	private int id_ClienTestNumero2;
 	private String adresse;
 	private String telephone;
 	private String email;
